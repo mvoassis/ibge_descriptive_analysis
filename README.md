@@ -9,7 +9,7 @@ The <b>National Household Sample Survey - 2015</b> annually investigates, on a p
 
 https://ww2.ibge.gov.br/home/estatistica/populacao/trabalhoerendimento/pnad2015/microdados.shtm
 
-### Variáveis utilizadas
+### Used variables
 
 > ### Income (Renda)
 > ***
